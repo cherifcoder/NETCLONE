@@ -22,7 +22,7 @@ function Nav() {
                 </div>
 
             </div>
-            <div className="align-center justify-center items-center text-center py-32">
+            <div className="align-center justify-center items-center text-center py-20">
                 <p className="align-center justify-center items-center font-bold ">
                     <h1 className="md:text-8xl text-2xl font-bold text-center py-5 ">
                         Unlimited films, <br /> series and more
